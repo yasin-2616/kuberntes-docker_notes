@@ -24,7 +24,8 @@
 # what is api (An API is a set of rules that allows two applications to communicate with each other.)
 # HTTP/1.1 is a web protocol that allows browsers and servers to communicate and transfer data over the internet. (json/xml)
 # gRPC is a high-performance framework for fast communication between microservices using HTTP/2. (in kubernetes evry protcol talk in grpc exp api-server to communicate with etcd and we talk with api-server in rest protocol)
-
+#gRPC = communication kaise hogi
+#Protobuf = data kaise define/encode hoga (data serilization or de serilization kaise hoga.
                   **** MASTER PLANE ****
 1# kube api-server
 (1)Authentication: Authentication verifies who you are before allowing access to the API server. we can use berar toke for ping for cluster
